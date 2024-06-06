@@ -1,2 +1,2 @@
-# OpenCV-Face-Recognition
+# OpenCV_Face-Recognition
 Development of a person recognition system using OpenCV
