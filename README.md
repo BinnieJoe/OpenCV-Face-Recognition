@@ -5,6 +5,7 @@ Processing special effects on videos using opencv and pyqt5. Apply 4 special eff
 '''
 pip install tensorflow numpy pandas
 '''
+
 '''
 pip freeze > requirements.txt
 '''
