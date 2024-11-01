@@ -2,13 +2,12 @@
 Processing special effects on videos using opencv and pyqt5. Apply 4 special effects (embossing, cartoon, sketch, oil painting)
 
 ## Creating a requirements.txt File
-'''
+```
 pip install tensorflow numpy pandas
-'''
-
-'''
+```
+```
 pip freeze > requirements.txt
-'''
+```
 
 ### Requirements
 - PyTorch (torch)
@@ -18,13 +17,13 @@ pip freeze > requirements.txt
 - Pillow (Pillow)
 - Pandas (pandas)
 - OpenCV (opencv-python)
-
+- 
 ### For adding Your GitHub Repository
-'''
+```
 git add requirements.txt
 git commit -m "Add requirements.txt"
 git push
-'''
+```
 
 ## Results
 ![image](https://github.com/BinnieJoe/Processing-special-effects/assets/167211454/5dc81eb0-75ee-4d2e-8ad1-dbcbd41380dd)
