@@ -12,6 +12,7 @@ Processing special effects on videos using opencv and pyqt5. Apply 4 special eff
 - Pandas (pandas)
 - OpenCV (opencv-python)
 
+### Generate requirements.txt
 ```
 pip freeze > requirements.txt
 ```
