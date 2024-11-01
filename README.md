@@ -3,7 +3,7 @@ Processing special effects on videos using opencv and pyqt5. Apply 4 special eff
 
 ## Creating a requirements.txt File
 
-### Install Your Required Packages
+### Install Required Packages
 - PyTorch (torch)
 - Torchvision (torchvision)
 - Numpy (numpy)
