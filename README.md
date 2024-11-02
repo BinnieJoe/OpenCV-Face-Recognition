@@ -5,7 +5,7 @@ This project is a tool that utilizes OpenCV and PyQt5, allowing users to import 
 - **OpenCV**: Experience using OpenCV for image and video processing, applying various filters and effects.
 - **PyQt5**: Experience using PyQt5 for designing user-friendly interfaces.
 - **VSCode**: Ability to use VSCode for code development and debugging in a Windows environment.
-- **Real-Time Image Processing**: Experience implementing image loading and real-time effect preview features.
+- **Image Processing**: Experience implementing image loading and real-time effect preview features.
 
 ## Creating a requirements.txt File
 
